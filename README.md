@@ -7,6 +7,3 @@ I developed this project because I can handle these:
 3.  MVC
 4.  API
 
-This line is just for checking fetching and pulling
-Second attempt
-Written in the local rep
